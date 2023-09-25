@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nandini sahu</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<!-- <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"> -->
+
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
 
 - 👀 I know **C/C++,Python,Mysql**
